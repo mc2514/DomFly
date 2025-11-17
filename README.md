@@ -114,7 +114,8 @@ messages:
 #### 前置要求
 
 - JDK 21 或更高版本
-- Dominion 任意版本插件
+- Maven 3.6 或更高版本
+- Git
 
 #### 构建步骤
 
